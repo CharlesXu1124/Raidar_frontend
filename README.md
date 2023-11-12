@@ -23,7 +23,10 @@ We have explored the problem extensively via the standard product problem explor
 
 
 ## Vision
-TBD
+We found that biking commutes can be DANGEROUS, CONFUSING and UNENGAGING, especially at night. We have developed and AR helmet UX to address this.
+### Problem definition
+
+### Solution
 
 ## Technical implementation
 XReal, Android, Unity, Orbec (RGB) monocular camera. We have also optimized the user experience by carefully working on the design and user interface of the device. We worked with different devices while creating our demo.

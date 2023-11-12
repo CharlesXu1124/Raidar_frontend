@@ -30,6 +30,9 @@ We found that biking commutes can be DANGEROUS, CONFUSING and UNENGAGING, especi
 ![Snímek5](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/f56f5e04-464f-49c9-8729-ccf0254f70df)
 
 ### Solution
+![Snímek8](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/419fc8a6-7c67-4d49-be7e-d6fff3a89096)
+![Snímek9](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/2e9f62e9-abc8-4f05-8d78-29c1440751ba)
+
 
 ## Technical implementation
 XReal, Android, Unity, Orbec (RGB) monocular camera. We have also optimized the user experience by carefully working on the design and user interface of the device. We worked with different devices while creating our demo.

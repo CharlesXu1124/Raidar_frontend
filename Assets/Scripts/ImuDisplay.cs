@@ -22,6 +22,6 @@ public class ImuDisplay : MonoBehaviour
         float accel_no_gravity = Mathf.Sqrt(accel_value.x * accel_value.x + accel_value.y * accel_value.y + accel_value.z * accel_value.z) - 1.0f;
         speed += Time.deltaTime * accel_no_gravity;
         if (accel_no_gravity < 0.1f) speed = 0.0f;
-        speedTxt.text = ( speed * 9.81).ToString("F2") + " MPH";
+        speedTxt.text = (speed * 9.81 * 2.24).ToString("F2") + " MPH";
     }
 }

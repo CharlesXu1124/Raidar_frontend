@@ -47,11 +47,22 @@ public class DisplayObjects : MonoBehaviour
             obstacles[counter] = Instantiate(obstacle, transform);
             obstacles[counter].SetActive(true);
 
-            // GameObject textObject = obstacles[counter].transform.GetChild(0).gameObject;
             obstacles[counter].GetComponentInChildren<TextMeshPro>().text = class_names[(int) message.data[i + 3]];
 
+            float distance = 
+                message.data[i] * message.data[i] + message.data[i + 1] * message.data[i + 1] + message.data[i + 2] * message.data[i + 2];
+
+            if (distance < 2.0f) {
+                obstacles[counter].GetComponentInChildren<TextMeshPro>().color = Color.red;
+            } else if (distance < 5.0f) {
+                obstacles[counter].GetComponentInChildren<TextMeshPro>().color = Color.yellow;
+            } else {
+                obstacles[counter].GetComponentInChildren<TextMeshPro>().color = Color.green;
+            }
+
             obstacles[counter].transform.localPosition = new Vector3 (-message.data[i] / 10.0f, -message.data[i + 1] / 10.0f, message.data[i + 2] / 10.0f);
-            Debug.Log(class_names[(int)(message.data[i + 3])]);
+            // Debug.Log(class_names[(int)(message.data[i + 3])]);
+
 
             counter += 1;
             

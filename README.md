@@ -12,5 +12,13 @@ Cycling, which is a sport and means of transportation that we enjoy, has ceased 
 ## Team
 ![Snímek2](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/2a799964-0b8e-4b00-8bd7-5d48cec4068b)
 
+## Technical implementation
+XReal, Android, Unity, Orbec (RGB) monocular camera. We have also optimized the user experience by carefully working on the design and user interface of the device. We worked with different devices while creating our demo.
+![Snímek11](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/d120ebc4-3e0d-49be-aa48-ca599f73d30a)
+![Snímek12](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/4f0c54bb-09b1-407f-b1ff-31662b727b95)
+![Snímek14](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/96627007-42e1-4350-8c28-327c8ca7fb9c)
+
+## Limitations
+
 ## Testing and validation
 The solution was tested in the early hours of 12 November 2023 at Stanford University.

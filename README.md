@@ -19,6 +19,10 @@ XReal, Android, Unity, Orbec (RGB) monocular camera. We have also optimized the 
 ![Snímek14](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/96627007-42e1-4350-8c28-327c8ca7fb9c)
 
 ## Limitations
+![Snímek15](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/14f15683-d060-4fd2-b864-2563c850c0cd)
+
 
 ## Testing and validation
 The solution was tested in the early hours of 12 November 2023 at Stanford University.
+![20231112_003417](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/a9e513a5-dcaf-4247-8adb-744b3e31132f)
+

@@ -13,9 +13,16 @@ Cycling, which is a sport and means of transportation that we enjoy, has ceased 
 ![Snímek2](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/2a799964-0b8e-4b00-8bd7-5d48cec4068b)
 
 ## Problem exploration
+We have explored the problem extensively
 ### Affinity map
 ![Snímek19](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/d4235225-30e5-4a03-a5b0-3dadb48a3c3d)
+### Storyboard
+![Snímek20](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/2baf49f5-d150-4a17-ad2f-f78869595ae9)
+### Persona
 
+
+## Vision
+TBD
 
 ## Technical implementation
 XReal, Android, Unity, Orbec (RGB) monocular camera. We have also optimized the user experience by carefully working on the design and user interface of the device. We worked with different devices while creating our demo.

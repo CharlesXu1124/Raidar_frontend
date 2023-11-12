@@ -10,3 +10,5 @@ The Raidar helmet was developed as a tool to help cyclists navigate the 21st cen
 Cycling, which is a sport and means of transportation that we enjoy, has ceased to be a hobby that people enjoy day by day. With the ideation and research phase we carried out, we saw how many problems bikers actually have with observational research. Based on this problem, we determined a statement and storyboard for ourselves. After creating our personas, the problem statement was actually clear in our minds. Afterwards, when we thought about how we could find a solution to this problem, how we could get people to ride bicycles again and enjoy doing so, we actually started to create our demo product.
 
 ## Team
+![Snímek2](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/2a799964-0b8e-4b00-8bd7-5d48cec4068b)
+

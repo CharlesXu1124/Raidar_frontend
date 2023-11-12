@@ -12,3 +12,5 @@ Cycling, which is a sport and means of transportation that we enjoy, has ceased 
 ## Team
 ![Snímek2](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/2a799964-0b8e-4b00-8bd7-5d48cec4068b)
 
+## Testing and validation
+The solution was tested in the early hours of 12 November 2023 at Stanford University.

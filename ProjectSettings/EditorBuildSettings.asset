@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/NRSDK/Demos/HandTracking.unity
-    guid: 7d33c4a3bc8da9745acac0e1d62c44bf
+    path: Assets/RaidarScene.unity
+    guid: 6f5f8292ca99068f180a4dc54d27c86b
   m_configObjects: {}

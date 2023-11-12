@@ -13,7 +13,7 @@ Cycling, which is a sport and means of transportation that we enjoy, has ceased 
 ![Snímek2](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/2a799964-0b8e-4b00-8bd7-5d48cec4068b)
 
 ## Problem exploration
-We have explored the problem extensively
+We have explored the problem extensively via the standard product problem exploration process:
 ### Affinity map
 ![Snímek19](https://github.com/CharlesXu1124/Raidar_frontend/assets/22589593/d4235225-30e5-4a03-a5b0-3dadb48a3c3d)
 ### Storyboard
